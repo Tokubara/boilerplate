@@ -1,0 +1,9 @@
+.idea
+target
+Cargo.lock
+*.swo
+*.swp
+*.txt
+*.vi
+tags
+*.orig
