@@ -1,4 +1,7 @@
 .idea
+build
+cmake-build-debug
+obj
 target
 Cargo.lock
 *.swo
@@ -7,3 +10,5 @@ Cargo.lock
 *.vi
 tags
 *.orig
+*.pyc
+*.class
